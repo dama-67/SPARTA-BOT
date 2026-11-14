@@ -1,0 +1,13 @@
+{
+  "name": "sparta-bot-dama-v7",
+  "version": "7.0.0",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "express": "^4.18.2",
+    "pino": "^8.17.0",
+    "moment-timezone": "^0.5.43",
+    "axios": "^1.6.7"
+  }
+}
